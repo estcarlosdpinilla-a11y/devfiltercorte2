@@ -1,0 +1,4 @@
+algorithm,expanded,cost,utility,selected,frontier_peak,median_ms,repetitions
+BFS,2310,4,36,"(8, 9, 10, 11)",1820,2.0202,101
+DFS,2258,4,36,"(8, 9, 10, 11)",49,2.2168,101
+A*,4,4,36,"(8, 9, 10, 11)",25,0.0296,101
